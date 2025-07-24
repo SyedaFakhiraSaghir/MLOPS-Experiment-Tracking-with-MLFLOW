@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/318758015578786837/521bb9da71a34169b89f3d573db79b2b/artifacts
+end_time: 1753339747074
+entry_point_name: ''
+experiment_id: '318758015578786837'
+lifecycle_stage: active
+run_id: 521bb9da71a34169b89f3d573db79b2b
+run_name: gregarious-hound-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753339733978
+status: 3
+tags: []
+user_id: MANAGER MIS

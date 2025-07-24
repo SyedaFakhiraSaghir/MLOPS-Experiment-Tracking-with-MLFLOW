@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/MANAGER%20MIS/Desktop/Youtube-MLOPS-Series/MLOPS-Experiment-Tracking-with-MLFLOW/mlruns/720583014240840829
+creation_time: 1753339826450
+experiment_id: '720583014240840829'
+last_update_time: 1753339826450
+lifecycle_stage: active
+name: breast-cancer-rf-hp

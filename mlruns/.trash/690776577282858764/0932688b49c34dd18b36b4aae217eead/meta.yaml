@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/690776577282858764/0932688b49c34dd18b36b4aae217eead/artifacts
+deleted_time: 1753336446962
+end_time: 1753335285716
+entry_point_name: ''
+experiment_id: '690776577282858764'
+lifecycle_stage: deleted
+run_id: 0932688b49c34dd18b36b4aae217eead
+run_name: nervous-ant-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753335272192
+status: 3
+tags: []
+user_id: MANAGER MIS

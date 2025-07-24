@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/493357790922723632/fb97f2fb911f47eb8b41bdaf63dbc987/artifacts
+deleted_time: 1753339325839
+end_time: 1753336551252
+entry_point_name: ''
+experiment_id: '493357790922723632'
+lifecycle_stage: deleted
+run_id: fb97f2fb911f47eb8b41bdaf63dbc987
+run_name: fearless-eel-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753336539070
+status: 3
+tags: []
+user_id: MANAGER MIS
