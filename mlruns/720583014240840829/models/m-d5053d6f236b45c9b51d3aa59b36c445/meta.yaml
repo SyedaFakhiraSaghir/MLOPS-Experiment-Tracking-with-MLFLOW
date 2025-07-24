@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/MANAGER%20MIS/Desktop/Youtube-MLOPS-Series/MLOPS-Experiment-Tracking-with-MLFLOW/mlruns/720583014240840829/models/m-d5053d6f236b45c9b51d3aa59b36c445/artifacts
+creation_timestamp: 1753340338085
+experiment_id: '720583014240840829'
+last_updated_timestamp: 1753340348983
+model_id: m-d5053d6f236b45c9b51d3aa59b36c445
+model_type: null
+name: random_forest
+source_run_id: e2c97cd451a6498d9a1b637dc0c3b890
+status: 2
+status_message: null
